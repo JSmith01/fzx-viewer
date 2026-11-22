@@ -1,0 +1,9098 @@
+{
+  "codec": "zx0",
+  "compressed_bytes": {
+    "zx0": 157369,
+    "zx7": 171082
+  },
+  "font_sectors": {
+    "zx0": 619,
+    "zx7": 672
+  },
+  "codec_wins": {
+    "zx0": 190,
+    "zx7": 0
+  },
+  "fonts": [
+    {
+      "path": "ao/Aribeth/Aribeth14.fzx",
+      "node": 3,
+      "raw_bytes": 1240,
+      "slot": 2,
+      "pitch": 21,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          85
+        ],
+        [
+          86,
+          102
+        ],
+        [
+          103,
+          120
+        ],
+        [
+          121,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 0,
+          "size": 797
+        },
+        "zx7": {
+          "offset": 0,
+          "size": 854
+        }
+      }
+    },
+    {
+      "path": "ao/Aribeth/Aribeth6.fzx",
+      "node": 4,
+      "raw_bytes": 817,
+      "slot": 2,
+      "pitch": 14,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 797,
+          "size": 573
+        },
+        "zx7": {
+          "offset": 854,
+          "size": 618
+        }
+      }
+    },
+    {
+      "path": "ao/Aribeth/Aribeth8.fzx",
+      "node": 5,
+      "raw_bytes": 892,
+      "slot": 2,
+      "pitch": 16,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 1370,
+          "size": 629
+        },
+        "zx7": {
+          "offset": 1472,
+          "size": 668
+        }
+      }
+    },
+    {
+      "path": "ao/Arkade/Arkade.fzx",
+      "node": 7,
+      "raw_bytes": 995,
+      "slot": 2,
+      "pitch": 16,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          66
+        ],
+        [
+          67,
+          82
+        ],
+        [
+          83,
+          99
+        ],
+        [
+          100,
+          117
+        ],
+        [
+          118,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 1999,
+          "size": 730
+        },
+        "zx7": {
+          "offset": 2140,
+          "size": 777
+        }
+      }
+    },
+    {
+      "path": "ao/Blackadder/Blackadder.fzx",
+      "node": 9,
+      "raw_bytes": 959,
+      "slot": 2,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 2729,
+          "size": 782
+        },
+        "zx7": {
+          "offset": 2917,
+          "size": 835
+        }
+      }
+    },
+    {
+      "path": "ao/Cayeux/Cayeux.fzx",
+      "node": 11,
+      "raw_bytes": 1748,
+      "slot": 2,
+      "pitch": 26,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          64
+        ],
+        [
+          65,
+          78
+        ],
+        [
+          79,
+          92
+        ],
+        [
+          93,
+          108
+        ],
+        [
+          109,
+          124
+        ],
+        [
+          125,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 3511,
+          "size": 1208
+        },
+        "zx7": {
+          "offset": 3752,
+          "size": 1319
+        }
+      }
+    },
+    {
+      "path": "ao/Cheveron/Cheveron.fzx",
+      "node": 13,
+      "raw_bytes": 1072,
+      "slot": 2,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          67
+        ],
+        [
+          68,
+          83
+        ],
+        [
+          84,
+          100
+        ],
+        [
+          101,
+          117
+        ],
+        [
+          118,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 4719,
+          "size": 790
+        },
+        "zx7": {
+          "offset": 5071,
+          "size": 849
+        }
+      }
+    },
+    {
+      "path": "ao/Chloe/Chloe.fzx",
+      "node": 15,
+      "raw_bytes": 883,
+      "slot": 2,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 5509,
+          "size": 525
+        },
+        "zx7": {
+          "offset": 5920,
+          "size": 580
+        }
+      }
+    },
+    {
+      "path": "ao/Dutch/Dutch.fzx",
+      "node": 17,
+      "raw_bytes": 861,
+      "slot": 2,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 6034,
+          "size": 653
+        },
+        "zx7": {
+          "offset": 6500,
+          "size": 694
+        }
+      }
+    },
+    {
+      "path": "ao/Dutch/Dutch_Latin1.fzx",
+      "node": 18,
+      "raw_bytes": 1842,
+      "slot": 2,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          175
+        ],
+        [
+          176,
+          193
+        ],
+        [
+          194,
+          211
+        ],
+        [
+          212,
+          229
+        ],
+        [
+          230,
+          247
+        ],
+        [
+          248,
+          255
+        ]
+      ],
+      "glyphs": 188,
+      "compressed": {
+        "zx0": {
+          "offset": 6687,
+          "size": 1267
+        },
+        "zx7": {
+          "offset": 7194,
+          "size": 1368
+        }
+      }
+    },
+    {
+      "path": "ao/Dutch/Dutch_Latin5.fzx",
+      "node": 19,
+      "raw_bytes": 1842,
+      "slot": 2,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          175
+        ],
+        [
+          176,
+          193
+        ],
+        [
+          194,
+          211
+        ],
+        [
+          212,
+          229
+        ],
+        [
+          230,
+          247
+        ],
+        [
+          248,
+          255
+        ]
+      ],
+      "glyphs": 188,
+      "compressed": {
+        "zx0": {
+          "offset": 7954,
+          "size": 1266
+        },
+        "zx7": {
+          "offset": 8562,
+          "size": 1365
+        }
+      }
+    },
+    {
+      "path": "ao/GenevaMono/GenevaMonoBold.fzx",
+      "node": 21,
+      "raw_bytes": 882,
+      "slot": 2,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 9220,
+          "size": 562
+        },
+        "zx7": {
+          "offset": 9927,
+          "size": 624
+        }
+      }
+    },
+    {
+      "path": "ao/GenevaMono/GenevaMonoBoldItalic.fzx",
+      "node": 22,
+      "raw_bytes": 886,
+      "slot": 2,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 9782,
+          "size": 613
+        },
+        "zx7": {
+          "offset": 10551,
+          "size": 678
+        }
+      }
+    },
+    {
+      "path": "ao/GenevaMono/GenevaMonoCyrillic.fzx",
+      "node": 23,
+      "raw_bytes": 612,
+      "slot": 2,
+      "pitch": 15,
+      "rows": [
+        [
+          32,
+          49
+        ],
+        [
+          50,
+          67
+        ],
+        [
+          68,
+          85
+        ],
+        [
+          86,
+          97
+        ]
+      ],
+      "glyphs": 66,
+      "compressed": {
+        "zx0": {
+          "offset": 10395,
+          "size": 374
+        },
+        "zx7": {
+          "offset": 11229,
+          "size": 426
+        }
+      }
+    },
+    {
+      "path": "ao/GenevaMono/GenevaMonoItalic.fzx",
+      "node": 24,
+      "raw_bytes": 885,
+      "slot": 2,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 10769,
+          "size": 597
+        },
+        "zx7": {
+          "offset": 11655,
+          "size": 658
+        }
+      }
+    },
+    {
+      "path": "ao/GenevaMono/GenevaMonoRoman.fzx",
+      "node": 25,
+      "raw_bytes": 882,
+      "slot": 2,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 11366,
+          "size": 559
+        },
+        "zx7": {
+          "offset": 12313,
+          "size": 618
+        }
+      }
+    },
+    {
+      "path": "ao/GenevaMono/GenevaMonoSymbol.fzx",
+      "node": 26,
+      "raw_bytes": 613,
+      "slot": 2,
+      "pitch": 15,
+      "rows": [
+        [
+          65,
+          82
+        ],
+        [
+          83,
+          106
+        ],
+        [
+          107,
+          122
+        ]
+      ],
+      "glyphs": 52,
+      "compressed": {
+        "zx0": {
+          "offset": 11925,
+          "size": 375
+        },
+        "zx7": {
+          "offset": 12931,
+          "size": 421
+        }
+      }
+    },
+    {
+      "path": "ao/Grotesk/Grotesk.fzx",
+      "node": 28,
+      "raw_bytes": 2606,
+      "slot": 2,
+      "pitch": 37,
+      "rows": [
+        [
+          33,
+          47
+        ],
+        [
+          48,
+          63
+        ],
+        [
+          64,
+          78
+        ],
+        [
+          79,
+          94
+        ],
+        [
+          95,
+          110
+        ],
+        [
+          111,
+          126
+        ],
+        [
+          127,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 12300,
+          "size": 1055
+        },
+        "zx7": {
+          "offset": 13352,
+          "size": 1145
+        }
+      }
+    },
+    {
+      "path": "ao/Grotesk/Grotesk_Latin1.fzx",
+      "node": 29,
+      "raw_bytes": 5597,
+      "slot": 2,
+      "pitch": 39,
+      "rows": [
+        [
+          33,
+          47
+        ],
+        [
+          48,
+          63
+        ],
+        [
+          64,
+          78
+        ],
+        [
+          79,
+          94
+        ],
+        [
+          95,
+          110
+        ],
+        [
+          111,
+          126
+        ],
+        [
+          161,
+          175
+        ],
+        [
+          176,
+          190
+        ],
+        [
+          191,
+          206
+        ],
+        [
+          207,
+          222
+        ],
+        [
+          223,
+          238
+        ],
+        [
+          239,
+          254
+        ],
+        [
+          255,
+          255
+        ]
+      ],
+      "glyphs": 188,
+      "compressed": {
+        "zx0": {
+          "offset": 13355,
+          "size": 2121
+        },
+        "zx7": {
+          "offset": 14497,
+          "size": 2362
+        }
+      }
+    },
+    {
+      "path": "ao/Grotesk/Grotesk_Latin5.fzx",
+      "node": 30,
+      "raw_bytes": 5473,
+      "slot": 2,
+      "pitch": 39,
+      "rows": [
+        [
+          33,
+          47
+        ],
+        [
+          48,
+          63
+        ],
+        [
+          64,
+          78
+        ],
+        [
+          79,
+          94
+        ],
+        [
+          95,
+          110
+        ],
+        [
+          111,
+          126
+        ],
+        [
+          161,
+          175
+        ],
+        [
+          176,
+          190
+        ],
+        [
+          191,
+          206
+        ],
+        [
+          207,
+          222
+        ],
+        [
+          223,
+          238
+        ],
+        [
+          239,
+          254
+        ],
+        [
+          255,
+          255
+        ]
+      ],
+      "glyphs": 188,
+      "compressed": {
+        "zx0": {
+          "offset": 15476,
+          "size": 2084
+        },
+        "zx7": {
+          "offset": 16859,
+          "size": 2345
+        }
+      }
+    },
+    {
+      "path": "ao/Hemery/Hemery.fzx",
+      "node": 32,
+      "raw_bytes": 1304,
+      "slot": 2,
+      "pitch": 24,
+      "rows": [
+        [
+          48,
+          66
+        ],
+        [
+          67,
+          78
+        ],
+        [
+          79,
+          89
+        ],
+        [
+          90,
+          90
+        ]
+      ],
+      "glyphs": 36,
+      "compressed": {
+        "zx0": {
+          "offset": 17560,
+          "size": 665
+        },
+        "zx7": {
+          "offset": 19204,
+          "size": 723
+        }
+      }
+    },
+    {
+      "path": "ao/Hiroshi/Hiroshi.fzx",
+      "node": 34,
+      "raw_bytes": 887,
+      "slot": 2,
+      "pitch": 16,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 18225,
+          "size": 600
+        },
+        "zx7": {
+          "offset": 19927,
+          "size": 647
+        }
+      }
+    },
+    {
+      "path": "ao/Jangeborg/Jangeborg.fzx",
+      "node": 36,
+      "raw_bytes": 868,
+      "slot": 2,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 18825,
+          "size": 500
+        },
+        "zx7": {
+          "offset": 20574,
+          "size": 553
+        }
+      }
+    },
+    {
+      "path": "ao/Kaitaia/Kaitaia.fzx",
+      "node": 38,
+      "raw_bytes": 1117,
+      "slot": 2,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          67
+        ],
+        [
+          68,
+          85
+        ],
+        [
+          86,
+          102
+        ],
+        [
+          103,
+          119
+        ],
+        [
+          120,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 19325,
+          "size": 694
+        },
+        "zx7": {
+          "offset": 21127,
+          "size": 750
+        }
+      }
+    },
+    {
+      "path": "ao/Klausjahn/Klausjahn.fzx",
+      "node": 40,
+      "raw_bytes": 1848,
+      "slot": 2,
+      "pitch": 22,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          65
+        ],
+        [
+          66,
+          81
+        ],
+        [
+          82,
+          96
+        ],
+        [
+          97,
+          111
+        ],
+        [
+          112,
+          126
+        ],
+        [
+          127,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 20019,
+          "size": 965
+        },
+        "zx7": {
+          "offset": 21877,
+          "size": 1045
+        }
+      }
+    },
+    {
+      "path": "ao/Lettera/Lettera.fzx",
+      "node": 42,
+      "raw_bytes": 900,
+      "slot": 2,
+      "pitch": 16,
+      "rows": [
+        [
+          33,
+          48
+        ],
+        [
+          49,
+          64
+        ],
+        [
+          65,
+          80
+        ],
+        [
+          81,
+          96
+        ],
+        [
+          97,
+          112
+        ],
+        [
+          113,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 20984,
+          "size": 656
+        },
+        "zx7": {
+          "offset": 22922,
+          "size": 717
+        }
+      }
+    },
+    {
+      "path": "ao/Napier/Napier.fzx",
+      "node": 44,
+      "raw_bytes": 895,
+      "slot": 2,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          67
+        ],
+        [
+          68,
+          84
+        ],
+        [
+          85,
+          101
+        ],
+        [
+          102,
+          119
+        ],
+        [
+          120,
+          122
+        ]
+      ],
+      "glyphs": 90,
+      "compressed": {
+        "zx0": {
+          "offset": 21640,
+          "size": 641
+        },
+        "zx7": {
+          "offset": 23639,
+          "size": 690
+        }
+      }
+    },
+    {
+      "path": "ao/Newbrand/Newbrand.fzx",
+      "node": 46,
+      "raw_bytes": 927,
+      "slot": 2,
+      "pitch": 16,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          121
+        ],
+        [
+          122,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 22281,
+          "size": 626
+        },
+        "zx7": {
+          "offset": 24329,
+          "size": 678
+        }
+      }
+    },
+    {
+      "path": "ao/OldEnglish/OldEnglish.fzx",
+      "node": 48,
+      "raw_bytes": 2481,
+      "slot": 2,
+      "pitch": 27,
+      "rows": [
+        [
+          33,
+          47
+        ],
+        [
+          48,
+          62
+        ],
+        [
+          63,
+          73
+        ],
+        [
+          74,
+          83
+        ],
+        [
+          84,
+          94
+        ],
+        [
+          95,
+          110
+        ],
+        [
+          111,
+          125
+        ],
+        [
+          126,
+          127
+        ]
+      ],
+      "glyphs": 94,
+      "compressed": {
+        "zx0": {
+          "offset": 22907,
+          "size": 1909
+        },
+        "zx7": {
+          "offset": 25007,
+          "size": 2041
+        }
+      }
+    },
+    {
+      "path": "ao/OpenDyslexic/OpenDyslexic.fzx",
+      "node": 50,
+      "raw_bytes": 1211,
+      "slot": 2,
+      "pitch": 20,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          67
+        ],
+        [
+          68,
+          85
+        ],
+        [
+          86,
+          103
+        ],
+        [
+          104,
+          121
+        ],
+        [
+          122,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 24816,
+          "size": 809
+        },
+        "zx7": {
+          "offset": 27048,
+          "size": 872
+        }
+      }
+    },
+    {
+      "path": "ao/Orion/Orion.fzx",
+      "node": 52,
+      "raw_bytes": 713,
+      "slot": 2,
+      "pitch": 14,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 25625,
+          "size": 425
+        },
+        "zx7": {
+          "offset": 27920,
+          "size": 473
+        }
+      }
+    },
+    {
+      "path": "ao/Prefect/Prefect.fzx",
+      "node": 54,
+      "raw_bytes": 804,
+      "slot": 2,
+      "pitch": 14,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 26050,
+          "size": 584
+        },
+        "zx7": {
+          "offset": 28393,
+          "size": 624
+        }
+      }
+    },
+    {
+      "path": "ao/Programmer/Programmer.fzx",
+      "node": 56,
+      "raw_bytes": 822,
+      "slot": 2,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 26634,
+          "size": 513
+        },
+        "zx7": {
+          "offset": 29017,
+          "size": 575
+        }
+      }
+    },
+    {
+      "path": "ao/Roundel/RoundelSans.fzx",
+      "node": 58,
+      "raw_bytes": 1338,
+      "slot": 2,
+      "pitch": 20,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          66
+        ],
+        [
+          67,
+          83
+        ],
+        [
+          84,
+          99
+        ],
+        [
+          100,
+          117
+        ],
+        [
+          118,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 27147,
+          "size": 808
+        },
+        "zx7": {
+          "offset": 29592,
+          "size": 863
+        }
+      }
+    },
+    {
+      "path": "ao/Roundel/RoundelSans_Latin1.fzx",
+      "node": 59,
+      "raw_bytes": 2857,
+      "slot": 2,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          66
+        ],
+        [
+          67,
+          83
+        ],
+        [
+          84,
+          99
+        ],
+        [
+          100,
+          117
+        ],
+        [
+          118,
+          167
+        ],
+        [
+          168,
+          186
+        ],
+        [
+          187,
+          202
+        ],
+        [
+          203,
+          218
+        ],
+        [
+          219,
+          236
+        ],
+        [
+          237,
+          254
+        ],
+        [
+          255,
+          255
+        ]
+      ],
+      "glyphs": 189,
+      "compressed": {
+        "zx0": {
+          "offset": 27955,
+          "size": 1548
+        },
+        "zx7": {
+          "offset": 30455,
+          "size": 1658
+        }
+      }
+    },
+    {
+      "path": "ao/Roundel/RoundelSans_Latin5.fzx",
+      "node": 60,
+      "raw_bytes": 2854,
+      "slot": 2,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          66
+        ],
+        [
+          67,
+          83
+        ],
+        [
+          84,
+          99
+        ],
+        [
+          100,
+          117
+        ],
+        [
+          118,
+          167
+        ],
+        [
+          168,
+          186
+        ],
+        [
+          187,
+          202
+        ],
+        [
+          203,
+          218
+        ],
+        [
+          219,
+          236
+        ],
+        [
+          237,
+          254
+        ],
+        [
+          255,
+          255
+        ]
+      ],
+      "glyphs": 189,
+      "compressed": {
+        "zx0": {
+          "offset": 29503,
+          "size": 1528
+        },
+        "zx7": {
+          "offset": 32113,
+          "size": 1640
+        }
+      }
+    },
+    {
+      "path": "ao/Roundel/RoundelSerif.fzx",
+      "node": 61,
+      "raw_bytes": 1402,
+      "slot": 2,
+      "pitch": 20,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          66
+        ],
+        [
+          67,
+          82
+        ],
+        [
+          83,
+          97
+        ],
+        [
+          98,
+          113
+        ],
+        [
+          114,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 31031,
+          "size": 921
+        },
+        "zx7": {
+          "offset": 33753,
+          "size": 982
+        }
+      }
+    },
+    {
+      "path": "ao/Roundel/RoundelSerif_Latin1.fzx",
+      "node": 62,
+      "raw_bytes": 3056,
+      "slot": 2,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          66
+        ],
+        [
+          67,
+          82
+        ],
+        [
+          83,
+          97
+        ],
+        [
+          98,
+          113
+        ],
+        [
+          114,
+          163
+        ],
+        [
+          164,
+          181
+        ],
+        [
+          182,
+          196
+        ],
+        [
+          197,
+          212
+        ],
+        [
+          213,
+          227
+        ],
+        [
+          228,
+          245
+        ],
+        [
+          246,
+          255
+        ]
+      ],
+      "glyphs": 189,
+      "compressed": {
+        "zx0": {
+          "offset": 31952,
+          "size": 1682
+        },
+        "zx7": {
+          "offset": 34735,
+          "size": 1811
+        }
+      }
+    },
+    {
+      "path": "ao/Roundel/RoundelSerif_Latin5.fzx",
+      "node": 63,
+      "raw_bytes": 3052,
+      "slot": 2,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          66
+        ],
+        [
+          67,
+          82
+        ],
+        [
+          83,
+          97
+        ],
+        [
+          98,
+          113
+        ],
+        [
+          114,
+          163
+        ],
+        [
+          164,
+          181
+        ],
+        [
+          182,
+          196
+        ],
+        [
+          197,
+          212
+        ],
+        [
+          213,
+          227
+        ],
+        [
+          228,
+          245
+        ],
+        [
+          246,
+          255
+        ]
+      ],
+      "glyphs": 189,
+      "compressed": {
+        "zx0": {
+          "offset": 33634,
+          "size": 1666
+        },
+        "zx7": {
+          "offset": 36546,
+          "size": 1792
+        }
+      }
+    },
+    {
+      "path": "ao/Sabon/Sabon.fzx",
+      "node": 65,
+      "raw_bytes": 1719,
+      "slot": 2,
+      "pitch": 24,
+      "rows": [
+        [
+          33,
+          48
+        ],
+        [
+          49,
+          64
+        ],
+        [
+          65,
+          77
+        ],
+        [
+          78,
+          89
+        ],
+        [
+          90,
+          106
+        ],
+        [
+          107,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 35300,
+          "size": 1134
+        },
+        "zx7": {
+          "offset": 38338,
+          "size": 1209
+        }
+      }
+    },
+    {
+      "path": "ao/Sinclair/Sinclair.fzx",
+      "node": 67,
+      "raw_bytes": 840,
+      "slot": 2,
+      "pitch": 16,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 36434,
+          "size": 592
+        },
+        "zx7": {
+          "offset": 39547,
+          "size": 641
+        }
+      }
+    },
+    {
+      "path": "ao/Sinclair/Sinclair_Latin1.fzx",
+      "node": 68,
+      "raw_bytes": 1812,
+      "slot": 2,
+      "pitch": 16,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          175
+        ],
+        [
+          176,
+          193
+        ],
+        [
+          194,
+          211
+        ],
+        [
+          212,
+          229
+        ],
+        [
+          230,
+          247
+        ],
+        [
+          248,
+          255
+        ]
+      ],
+      "glyphs": 188,
+      "compressed": {
+        "zx0": {
+          "offset": 37026,
+          "size": 1178
+        },
+        "zx7": {
+          "offset": 40188,
+          "size": 1288
+        }
+      }
+    },
+    {
+      "path": "ao/Sinclair/Sinclair_Latin5.fzx",
+      "node": 69,
+      "raw_bytes": 1811,
+      "slot": 2,
+      "pitch": 16,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          175
+        ],
+        [
+          176,
+          193
+        ],
+        [
+          194,
+          211
+        ],
+        [
+          212,
+          229
+        ],
+        [
+          230,
+          247
+        ],
+        [
+          248,
+          255
+        ]
+      ],
+      "glyphs": 188,
+      "compressed": {
+        "zx0": {
+          "offset": 38204,
+          "size": 1173
+        },
+        "zx7": {
+          "offset": 41476,
+          "size": 1283
+        }
+      }
+    },
+    {
+      "path": "ao/SoixanteQuatre/SoixanteQuatre.fzx",
+      "node": 71,
+      "raw_bytes": 797,
+      "slot": 2,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 39377,
+          "size": 445
+        },
+        "zx7": {
+          "offset": 42759,
+          "size": 503
+        }
+      }
+    },
+    {
+      "path": "ao/Soxz/Soxz.fzx",
+      "node": 73,
+      "raw_bytes": 743,
+      "slot": 2,
+      "pitch": 13,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 39822,
+          "size": 511
+        },
+        "zx7": {
+          "offset": 43262,
+          "size": 549
+        }
+      }
+    },
+    {
+      "path": "ao/SpecDings/SpecDings.fzx",
+      "node": 75,
+      "raw_bytes": 4587,
+      "slot": 2,
+      "pitch": 44,
+      "rows": [
+        [
+          33,
+          41
+        ],
+        [
+          42,
+          51
+        ],
+        [
+          52,
+          60
+        ],
+        [
+          61,
+          69
+        ],
+        [
+          70,
+          78
+        ],
+        [
+          79,
+          87
+        ],
+        [
+          88,
+          97
+        ],
+        [
+          98,
+          107
+        ],
+        [
+          108,
+          116
+        ],
+        [
+          117,
+          126
+        ],
+        [
+          127,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 40333,
+          "size": 2205
+        },
+        "zx7": {
+          "offset": 43811,
+          "size": 2346
+        }
+      }
+    },
+    {
+      "path": "ao/Swiss/Swiss.fzx",
+      "node": 77,
+      "raw_bytes": 730,
+      "slot": 2,
+      "pitch": 14,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 42538,
+          "size": 517
+        },
+        "zx7": {
+          "offset": 46157,
+          "size": 557
+        }
+      }
+    },
+    {
+      "path": "ao/Trader/Trader.fzx",
+      "node": 79,
+      "raw_bytes": 738,
+      "slot": 2,
+      "pitch": 14,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 43055,
+          "size": 471
+        },
+        "zx7": {
+          "offset": 46714,
+          "size": 517
+        }
+      }
+    },
+    {
+      "path": "ao/Twombly/Twombly.fzx",
+      "node": 81,
+      "raw_bytes": 737,
+      "slot": 2,
+      "pitch": 14,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 43526,
+          "size": 518
+        },
+        "zx7": {
+          "offset": 47231,
+          "size": 554
+        }
+      }
+    },
+    {
+      "path": "ao/Vickers/Vickers.fzx",
+      "node": 83,
+      "raw_bytes": 814,
+      "slot": 2,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 44044,
+          "size": 533
+        },
+        "zx7": {
+          "offset": 47785,
+          "size": 589
+        }
+      }
+    },
+    {
+      "path": "ao/Videotex/Videotex.fzx",
+      "node": 85,
+      "raw_bytes": 882,
+      "slot": 2,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 44577,
+          "size": 552
+        },
+        "zx7": {
+          "offset": 48374,
+          "size": 609
+        }
+      }
+    },
+    {
+      "path": "ao/Zaibatsu/Zaibatsu.fzx",
+      "node": 87,
+      "raw_bytes": 898,
+      "slot": 2,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 45129,
+          "size": 595
+        },
+        "zx7": {
+          "offset": 48983,
+          "size": 645
+        }
+      }
+    },
+    {
+      "path": "ao/Zaibatsu/Zaibatsu_Latin1.fzx",
+      "node": 88,
+      "raw_bytes": 2047,
+      "slot": 2,
+      "pitch": 20,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          175
+        ],
+        [
+          176,
+          192
+        ],
+        [
+          193,
+          210
+        ],
+        [
+          211,
+          228
+        ],
+        [
+          229,
+          246
+        ],
+        [
+          247,
+          255
+        ]
+      ],
+      "glyphs": 188,
+      "compressed": {
+        "zx0": {
+          "offset": 45724,
+          "size": 1277
+        },
+        "zx7": {
+          "offset": 49628,
+          "size": 1386
+        }
+      }
+    },
+    {
+      "path": "ao/Zaibatsu/Zaibatsu_Latin5.fzx",
+      "node": 89,
+      "raw_bytes": 2038,
+      "slot": 2,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          175
+        ],
+        [
+          176,
+          192
+        ],
+        [
+          193,
+          210
+        ],
+        [
+          211,
+          228
+        ],
+        [
+          229,
+          246
+        ],
+        [
+          247,
+          255
+        ]
+      ],
+      "glyphs": 188,
+      "compressed": {
+        "zx0": {
+          "offset": 47001,
+          "size": 1270
+        },
+        "zx7": {
+          "offset": 51014,
+          "size": 1386
+        }
+      }
+    },
+    {
+      "path": "dkud1/Beerland2/beerland2.fzx",
+      "node": 92,
+      "raw_bytes": 1340,
+      "slot": 3,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 0,
+          "size": 782
+        },
+        "zx7": {
+          "offset": 0,
+          "size": 854
+        }
+      }
+    },
+    {
+      "path": "dkud1/Cinema/cinema.fzx",
+      "node": 94,
+      "raw_bytes": 1313,
+      "slot": 3,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 782,
+          "size": 799
+        },
+        "zx7": {
+          "offset": 854,
+          "size": 872
+        }
+      }
+    },
+    {
+      "path": "dkud1/Cobretti/cobretti.fzx",
+      "node": 96,
+      "raw_bytes": 1347,
+      "slot": 3,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 1581,
+          "size": 882
+        },
+        "zx7": {
+          "offset": 1726,
+          "size": 942
+        }
+      }
+    },
+    {
+      "path": "dkud1/Consul/consul1.fzx",
+      "node": 98,
+      "raw_bytes": 1179,
+      "slot": 3,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 2463,
+          "size": 805
+        },
+        "zx7": {
+          "offset": 2668,
+          "size": 866
+        }
+      }
+    },
+    {
+      "path": "dkud1/Consul/consul2.fzx",
+      "node": 99,
+      "raw_bytes": 1362,
+      "slot": 3,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 3268,
+          "size": 916
+        },
+        "zx7": {
+          "offset": 3534,
+          "size": 995
+        }
+      }
+    },
+    {
+      "path": "dkud1/Crusade/CRUSADE.fzx",
+      "node": 101,
+      "raw_bytes": 1333,
+      "slot": 3,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          55
+        ],
+        [
+          56,
+          70
+        ],
+        [
+          71,
+          79
+        ],
+        [
+          80,
+          88
+        ],
+        [
+          89,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 4184,
+          "size": 832
+        },
+        "zx7": {
+          "offset": 4529,
+          "size": 928
+        }
+      }
+    },
+    {
+      "path": "dkud1/DoubleBold/doublebold.fzx",
+      "node": 103,
+      "raw_bytes": 1355,
+      "slot": 3,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          85
+        ],
+        [
+          86,
+          103
+        ],
+        [
+          104,
+          119
+        ],
+        [
+          120,
+          136
+        ],
+        [
+          137,
+          153
+        ],
+        [
+          154,
+          157
+        ]
+      ],
+      "glyphs": 123,
+      "compressed": {
+        "zx0": {
+          "offset": 5016,
+          "size": 847
+        },
+        "zx7": {
+          "offset": 5457,
+          "size": 914
+        }
+      }
+    },
+    {
+      "path": "dkud1/Edice13/edice13.fzx",
+      "node": 105,
+      "raw_bytes": 1338,
+      "slot": 3,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 5863,
+          "size": 779
+        },
+        "zx7": {
+          "offset": 6371,
+          "size": 846
+        }
+      }
+    },
+    {
+      "path": "dkud1/JmenoRuze/jmeno_ruze.fzx",
+      "node": 107,
+      "raw_bytes": 1332,
+      "slot": 3,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 6642,
+          "size": 783
+        },
+        "zx7": {
+          "offset": 7217,
+          "size": 851
+        }
+      }
+    },
+    {
+      "path": "dkud1/Kurziva/kurziva.fzx",
+      "node": 109,
+      "raw_bytes": 1304,
+      "slot": 3,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          68
+        ],
+        [
+          69,
+          85
+        ],
+        [
+          86,
+          103
+        ],
+        [
+          104,
+          121
+        ],
+        [
+          122,
+          139
+        ],
+        [
+          140,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 7425,
+          "size": 892
+        },
+        "zx7": {
+          "offset": 8068,
+          "size": 959
+        }
+      }
+    },
+    {
+      "path": "dkud1/Little/little.fzx",
+      "node": 111,
+      "raw_bytes": 1046,
+      "slot": 3,
+      "pitch": 16,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 8317,
+          "size": 683
+        },
+        "zx7": {
+          "offset": 9027,
+          "size": 757
+        }
+      }
+    },
+    {
+      "path": "dkud1/MahJongg/MAH-JONGG.fzx",
+      "node": 113,
+      "raw_bytes": 1066,
+      "slot": 3,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          57
+        ],
+        [
+          63,
+          77
+        ],
+        [
+          78,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 9000,
+          "size": 750
+        },
+        "zx7": {
+          "offset": 9784,
+          "size": 822
+        }
+      }
+    },
+    {
+      "path": "dkud1/MahJongg/mah_jongg.fzx",
+      "node": 114,
+      "raw_bytes": 1251,
+      "slot": 3,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 9750,
+          "size": 778
+        },
+        "zx7": {
+          "offset": 10606,
+          "size": 855
+        }
+      }
+    },
+    {
+      "path": "dkud1/Overline/overline.fzx",
+      "node": 116,
+      "raw_bytes": 1333,
+      "slot": 3,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          51
+        ],
+        [
+          52,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 10528,
+          "size": 675
+        },
+        "zx7": {
+          "offset": 11461,
+          "size": 761
+        }
+      }
+    },
+    {
+      "path": "dkud1/Phones2/phones2.fzx",
+      "node": 118,
+      "raw_bytes": 1203,
+      "slot": 3,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 11203,
+          "size": 763
+        },
+        "zx7": {
+          "offset": 12222,
+          "size": 838
+        }
+      }
+    },
+    {
+      "path": "dkud1/RightBold/rightbold.fzx",
+      "node": 120,
+      "raw_bytes": 1235,
+      "slot": 3,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 11966,
+          "size": 752
+        },
+        "zx7": {
+          "offset": 13060,
+          "size": 825
+        }
+      }
+    },
+    {
+      "path": "dkud1/SciFi/sci-fi.fzx",
+      "node": 122,
+      "raw_bytes": 1214,
+      "slot": 3,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          55
+        ],
+        [
+          56,
+          70
+        ],
+        [
+          71,
+          80
+        ],
+        [
+          81,
+          89
+        ],
+        [
+          90,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 12718,
+          "size": 444
+        },
+        "zx7": {
+          "offset": 13885,
+          "size": 490
+        }
+      }
+    },
+    {
+      "path": "dkud1/Sinclair/sinclair.fzx",
+      "node": 124,
+      "raw_bytes": 1158,
+      "slot": 3,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 13162,
+          "size": 747
+        },
+        "zx7": {
+          "offset": 14375,
+          "size": 817
+        }
+      }
+    },
+    {
+      "path": "dkud1/Subtitles/subtitles.fzx",
+      "node": 126,
+      "raw_bytes": 1354,
+      "slot": 3,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 13909,
+          "size": 799
+        },
+        "zx7": {
+          "offset": 15192,
+          "size": 872
+        }
+      }
+    },
+    {
+      "path": "dkud1/Transcript/transcript.fzx",
+      "node": 128,
+      "raw_bytes": 821,
+      "slot": 3,
+      "pitch": 18,
+      "rows": [
+        [
+          35,
+          57
+        ],
+        [
+          58,
+          100
+        ],
+        [
+          101,
+          118
+        ],
+        [
+          119,
+          146
+        ],
+        [
+          148,
+          156
+        ]
+      ],
+      "glyphs": 75,
+      "compressed": {
+        "zx0": {
+          "offset": 14708,
+          "size": 567
+        },
+        "zx7": {
+          "offset": 16064,
+          "size": 621
+        }
+      }
+    },
+    {
+      "path": "dkud1/UpnUp/up&up.fzx",
+      "node": 130,
+      "raw_bytes": 1250,
+      "slot": 3,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 15275,
+          "size": 773
+        },
+        "zx7": {
+          "offset": 16685,
+          "size": 844
+        }
+      }
+    },
+    {
+      "path": "dkud1/UpnUp/up&up2.fzx",
+      "node": 131,
+      "raw_bytes": 1267,
+      "slot": 3,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 16048,
+          "size": 842
+        },
+        "zx7": {
+          "offset": 17529,
+          "size": 924
+        }
+      }
+    },
+    {
+      "path": "dkud2/Academy/academy.fzx",
+      "node": 134,
+      "raw_bytes": 1254,
+      "slot": 4,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 0,
+          "size": 769
+        },
+        "zx7": {
+          "offset": 0,
+          "size": 847
+        }
+      }
+    },
+    {
+      "path": "dkud2/Belegost/belegost1.fzx",
+      "node": 136,
+      "raw_bytes": 1310,
+      "slot": 4,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 769,
+          "size": 964
+        },
+        "zx7": {
+          "offset": 847,
+          "size": 1051
+        }
+      }
+    },
+    {
+      "path": "dkud2/Belegost/belegost2.fzx",
+      "node": 137,
+      "raw_bytes": 1358,
+      "slot": 4,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 1733,
+          "size": 817
+        },
+        "zx7": {
+          "offset": 1898,
+          "size": 893
+        }
+      }
+    },
+    {
+      "path": "dkud2/Bold/bigbold.fzx",
+      "node": 139,
+      "raw_bytes": 1450,
+      "slot": 4,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 2550,
+          "size": 778
+        },
+        "zx7": {
+          "offset": 2791,
+          "size": 860
+        }
+      }
+    },
+    {
+      "path": "dkud2/Bold/ultrabold.fzx",
+      "node": 140,
+      "raw_bytes": 1462,
+      "slot": 4,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          67
+        ],
+        [
+          68,
+          84
+        ],
+        [
+          85,
+          102
+        ],
+        [
+          103,
+          120
+        ],
+        [
+          121,
+          137
+        ],
+        [
+          138,
+          154
+        ],
+        [
+          155,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 3328,
+          "size": 857
+        },
+        "zx7": {
+          "offset": 3651,
+          "size": 931
+        }
+      }
+    },
+    {
+      "path": "dkud2/Bold/upcasebold.fzx",
+      "node": 141,
+      "raw_bytes": 1367,
+      "slot": 4,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 4185,
+          "size": 917
+        },
+        "zx7": {
+          "offset": 4582,
+          "size": 981
+        }
+      }
+    },
+    {
+      "path": "dkud2/Cobra/cobra.fzx",
+      "node": 143,
+      "raw_bytes": 1332,
+      "slot": 4,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 5102,
+          "size": 899
+        },
+        "zx7": {
+          "offset": 5563,
+          "size": 956
+        }
+      }
+    },
+    {
+      "path": "dkud2/Crash/crash.fzx",
+      "node": 145,
+      "raw_bytes": 1208,
+      "slot": 4,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 6001,
+          "size": 883
+        },
+        "zx7": {
+          "offset": 6519,
+          "size": 962
+        }
+      }
+    },
+    {
+      "path": "dkud2/DOC/d_o_c.fzx",
+      "node": 147,
+      "raw_bytes": 1169,
+      "slot": 4,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 6884,
+          "size": 736
+        },
+        "zx7": {
+          "offset": 7481,
+          "size": 796
+        }
+      }
+    },
+    {
+      "path": "dkud2/Eclipse/eclipse.fzx",
+      "node": 149,
+      "raw_bytes": 1163,
+      "slot": 4,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 7620,
+          "size": 794
+        },
+        "zx7": {
+          "offset": 8277,
+          "size": 859
+        }
+      }
+    },
+    {
+      "path": "dkud2/Extra/extra.fzx",
+      "node": 151,
+      "raw_bytes": 1507,
+      "slot": 4,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 8414,
+          "size": 1148
+        },
+        "zx7": {
+          "offset": 9136,
+          "size": 1221
+        }
+      }
+    },
+    {
+      "path": "dkud2/Hijack/hijack.fzx",
+      "node": 153,
+      "raw_bytes": 1270,
+      "slot": 4,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          66
+        ],
+        [
+          67,
+          82
+        ],
+        [
+          83,
+          99
+        ],
+        [
+          100,
+          117
+        ],
+        [
+          118,
+          134
+        ],
+        [
+          135,
+          151
+        ],
+        [
+          152,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 9562,
+          "size": 902
+        },
+        "zx7": {
+          "offset": 10357,
+          "size": 987
+        }
+      }
+    },
+    {
+      "path": "dkud2/Italika/italika.fzx",
+      "node": 155,
+      "raw_bytes": 1234,
+      "slot": 4,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          85
+        ],
+        [
+          86,
+          103
+        ],
+        [
+          104,
+          120
+        ],
+        [
+          121,
+          138
+        ],
+        [
+          139,
+          156
+        ],
+        [
+          157,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 10464,
+          "size": 896
+        },
+        "zx7": {
+          "offset": 11344,
+          "size": 966
+        }
+      }
+    },
+    {
+      "path": "dkud2/Just6/just6.fzx",
+      "node": 157,
+      "raw_bytes": 1241,
+      "slot": 4,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 11360,
+          "size": 725
+        },
+        "zx7": {
+          "offset": 12310,
+          "size": 802
+        }
+      }
+    },
+    {
+      "path": "dkud2/Locomotion/locomotion.fzx",
+      "node": 159,
+      "raw_bytes": 1270,
+      "slot": 4,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          85
+        ],
+        [
+          86,
+          103
+        ],
+        [
+          104,
+          121
+        ],
+        [
+          122,
+          139
+        ],
+        [
+          140,
+          156
+        ],
+        [
+          157,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 12085,
+          "size": 933
+        },
+        "zx7": {
+          "offset": 13112,
+          "size": 1000
+        }
+      }
+    },
+    {
+      "path": "dkud2/Midnight/midnight.fzx",
+      "node": 161,
+      "raw_bytes": 1236,
+      "slot": 4,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 13018,
+          "size": 839
+        },
+        "zx7": {
+          "offset": 14112,
+          "size": 908
+        }
+      }
+    },
+    {
+      "path": "dkud2/Moonalert/moonalert.fzx",
+      "node": 163,
+      "raw_bytes": 1167,
+      "slot": 4,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 13857,
+          "size": 739
+        },
+        "zx7": {
+          "offset": 15020,
+          "size": 803
+        }
+      }
+    },
+    {
+      "path": "dkud2/Nether/nether.fzx",
+      "node": 165,
+      "raw_bytes": 1222,
+      "slot": 4,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 14596,
+          "size": 804
+        },
+        "zx7": {
+          "offset": 15823,
+          "size": 881
+        }
+      }
+    },
+    {
+      "path": "dkud2/Neverend/neverend.fzx",
+      "node": 167,
+      "raw_bytes": 1266,
+      "slot": 4,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          84
+        ],
+        [
+          85,
+          102
+        ],
+        [
+          103,
+          120
+        ],
+        [
+          121,
+          137
+        ],
+        [
+          138,
+          154
+        ],
+        [
+          155,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 15400,
+          "size": 920
+        },
+        "zx7": {
+          "offset": 16704,
+          "size": 994
+        }
+      }
+    },
+    {
+      "path": "dkud2/Roman/roman.fzx",
+      "node": 169,
+      "raw_bytes": 1197,
+      "slot": 4,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 16320,
+          "size": 859
+        },
+        "zx7": {
+          "offset": 17698,
+          "size": 925
+        }
+      }
+    },
+    {
+      "path": "dkud2/Script/script.fzx",
+      "node": 171,
+      "raw_bytes": 1230,
+      "slot": 4,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          85
+        ],
+        [
+          86,
+          103
+        ],
+        [
+          104,
+          121
+        ],
+        [
+          122,
+          139
+        ],
+        [
+          140,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 17179,
+          "size": 908
+        },
+        "zx7": {
+          "offset": 18623,
+          "size": 969
+        }
+      }
+    },
+    {
+      "path": "dkud2/Script/script2.fzx",
+      "node": 172,
+      "raw_bytes": 1295,
+      "slot": 4,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 18087,
+          "size": 877
+        },
+        "zx7": {
+          "offset": 19592,
+          "size": 943
+        }
+      }
+    },
+    {
+      "path": "dkud2/Standard/standard.fzx",
+      "node": 174,
+      "raw_bytes": 1255,
+      "slot": 4,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 18964,
+          "size": 772
+        },
+        "zx7": {
+          "offset": 20535,
+          "size": 849
+        }
+      }
+    },
+    {
+      "path": "dkud2/Tomahawk/tomahawk.fzx",
+      "node": 176,
+      "raw_bytes": 1235,
+      "slot": 4,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 19736,
+          "size": 829
+        },
+        "zx7": {
+          "offset": 21384,
+          "size": 888
+        }
+      }
+    },
+    {
+      "path": "dkud2/Wildvest/wildvest.fzx",
+      "node": 178,
+      "raw_bytes": 1212,
+      "slot": 4,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 20565,
+          "size": 850
+        },
+        "zx7": {
+          "offset": 22272,
+          "size": 919
+        }
+      }
+    },
+    {
+      "path": "dkud2/Winter/winter.fzx",
+      "node": 180,
+      "raw_bytes": 1240,
+      "slot": 4,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 125,
+      "compressed": {
+        "zx0": {
+          "offset": 21415,
+          "size": 747
+        },
+        "zx7": {
+          "offset": 23191,
+          "size": 825
+        }
+      }
+    },
+    {
+      "path": "dkud3/Azbuka/azbuka.fzx",
+      "node": 183,
+      "raw_bytes": 1103,
+      "slot": 5,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          157
+        ]
+      ],
+      "glyphs": 108,
+      "compressed": {
+        "zx0": {
+          "offset": 0,
+          "size": 728
+        },
+        "zx7": {
+          "offset": 0,
+          "size": 795
+        }
+      }
+    },
+    {
+      "path": "dkud3/Azbuka/azbukabold.fzx",
+      "node": 184,
+      "raw_bytes": 1107,
+      "slot": 5,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          156
+        ],
+        [
+          157,
+          157
+        ]
+      ],
+      "glyphs": 109,
+      "compressed": {
+        "zx0": {
+          "offset": 728,
+          "size": 741
+        },
+        "zx7": {
+          "offset": 795,
+          "size": 810
+        }
+      }
+    },
+    {
+      "path": "dkud3/Belegost/belegost3.fzx",
+      "node": 186,
+      "raw_bytes": 1342,
+      "slot": 5,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 1469,
+          "size": 758
+        },
+        "zx7": {
+          "offset": 1605,
+          "size": 820
+        }
+      }
+    },
+    {
+      "path": "dkud3/Cobra/cobralight.fzx",
+      "node": 188,
+      "raw_bytes": 1330,
+      "slot": 5,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 2227,
+          "size": 820
+        },
+        "zx7": {
+          "offset": 2425,
+          "size": 876
+        }
+      }
+    },
+    {
+      "path": "dkud3/Cobra/cobratall.fzx",
+      "node": 189,
+      "raw_bytes": 1598,
+      "slot": 5,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 3047,
+          "size": 956
+        },
+        "zx7": {
+          "offset": 3301,
+          "size": 1022
+        }
+      }
+    },
+    {
+      "path": "dkud3/Deutch/deutchbold.fzx",
+      "node": 191,
+      "raw_bytes": 1054,
+      "slot": 5,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          157
+        ]
+      ],
+      "glyphs": 102,
+      "compressed": {
+        "zx0": {
+          "offset": 4003,
+          "size": 684
+        },
+        "zx7": {
+          "offset": 4323,
+          "size": 752
+        }
+      }
+    },
+    {
+      "path": "dkud3/Deutch/trnsdeutch.fzx",
+      "node": 192,
+      "raw_bytes": 781,
+      "slot": 5,
+      "pitch": 17,
+      "rows": [
+        [
+          35,
+          56
+        ],
+        [
+          57,
+          102
+        ],
+        [
+          103,
+          120
+        ],
+        [
+          121,
+          156
+        ]
+      ],
+      "glyphs": 67,
+      "compressed": {
+        "zx0": {
+          "offset": 4687,
+          "size": 499
+        },
+        "zx7": {
+          "offset": 5075,
+          "size": 545
+        }
+      }
+    },
+    {
+      "path": "dkud3/Echo/echo.fzx",
+      "node": 194,
+      "raw_bytes": 1511,
+      "slot": 5,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          121
+        ],
+        [
+          122,
+          139
+        ],
+        [
+          140,
+          156
+        ],
+        [
+          157,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 5186,
+          "size": 912
+        },
+        "zx7": {
+          "offset": 5620,
+          "size": 987
+        }
+      }
+    },
+    {
+      "path": "dkud3/Erotic/erotic.fzx",
+      "node": 196,
+      "raw_bytes": 1320,
+      "slot": 5,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 6098,
+          "size": 782
+        },
+        "zx7": {
+          "offset": 6607,
+          "size": 849
+        }
+      }
+    },
+    {
+      "path": "dkud3/Lovely/LOVELY.fzx",
+      "node": 198,
+      "raw_bytes": 1216,
+      "slot": 5,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          56
+        ],
+        [
+          57,
+          73
+        ],
+        [
+          74,
+          83
+        ],
+        [
+          84,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 6880,
+          "size": 662
+        },
+        "zx7": {
+          "offset": 7456,
+          "size": 720
+        }
+      }
+    },
+    {
+      "path": "dkud3/NisaSport/NISASPORT1.fzx",
+      "node": 200,
+      "raw_bytes": 1287,
+      "slot": 5,
+      "pitch": 22,
+      "rows": [
+        [
+          33,
+          56
+        ],
+        [
+          57,
+          72
+        ],
+        [
+          73,
+          82
+        ],
+        [
+          83,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 7542,
+          "size": 365
+        },
+        "zx7": {
+          "offset": 8176,
+          "size": 405
+        }
+      }
+    },
+    {
+      "path": "dkud3/NisaSport/NISASPORT2.fzx",
+      "node": 201,
+      "raw_bytes": 1286,
+      "slot": 5,
+      "pitch": 22,
+      "rows": [
+        [
+          33,
+          56
+        ],
+        [
+          57,
+          72
+        ],
+        [
+          73,
+          82
+        ],
+        [
+          83,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 7907,
+          "size": 405
+        },
+        "zx7": {
+          "offset": 8581,
+          "size": 446
+        }
+      }
+    },
+    {
+      "path": "dkud3/Notes/notes1.fzx",
+      "node": 203,
+      "raw_bytes": 1033,
+      "slot": 5,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 8312,
+          "size": 664
+        },
+        "zx7": {
+          "offset": 9027,
+          "size": 731
+        }
+      }
+    },
+    {
+      "path": "dkud3/Pearl/pearl2.fzx",
+      "node": 205,
+      "raw_bytes": 1333,
+      "slot": 5,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 8976,
+          "size": 781
+        },
+        "zx7": {
+          "offset": 9758,
+          "size": 845
+        }
+      }
+    },
+    {
+      "path": "dkud3/Pipe/PIPE+.fzx",
+      "node": 207,
+      "raw_bytes": 1365,
+      "slot": 5,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          56
+        ],
+        [
+          57,
+          72
+        ],
+        [
+          73,
+          82
+        ],
+        [
+          83,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 9757,
+          "size": 454
+        },
+        "zx7": {
+          "offset": 10603,
+          "size": 499
+        }
+      }
+    },
+    {
+      "path": "dkud3/Pipe/pipe.fzx",
+      "node": 208,
+      "raw_bytes": 1585,
+      "slot": 5,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 10211,
+          "size": 828
+        },
+        "zx7": {
+          "offset": 11102,
+          "size": 908
+        }
+      }
+    },
+    {
+      "path": "dkud3/QuaUni/qua+uni.fzx",
+      "node": 210,
+      "raw_bytes": 1188,
+      "slot": 5,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 11039,
+          "size": 771
+        },
+        "zx7": {
+          "offset": 12010,
+          "size": 839
+        }
+      }
+    },
+    {
+      "path": "dkud3/Script/script22.fzx",
+      "node": 212,
+      "raw_bytes": 1296,
+      "slot": 5,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          139
+        ],
+        [
+          140,
+          156
+        ],
+        [
+          157,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 11810,
+          "size": 913
+        },
+        "zx7": {
+          "offset": 12849,
+          "size": 979
+        }
+      }
+    },
+    {
+      "path": "dkud3/Small/SMALL1.fzx",
+      "node": 214,
+      "raw_bytes": 1114,
+      "slot": 5,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          63
+        ],
+        [
+          65,
+          77
+        ],
+        [
+          78,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 12723,
+          "size": 474
+        },
+        "zx7": {
+          "offset": 13828,
+          "size": 520
+        }
+      }
+    },
+    {
+      "path": "dkud3/Small/SMALL2.fzx",
+      "node": 215,
+      "raw_bytes": 1114,
+      "slot": 5,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          63
+        ],
+        [
+          65,
+          77
+        ],
+        [
+          78,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 13197,
+          "size": 539
+        },
+        "zx7": {
+          "offset": 14348,
+          "size": 587
+        }
+      }
+    },
+    {
+      "path": "dkud3/SteAff/ste-aff.fzx",
+      "node": 217,
+      "raw_bytes": 1232,
+      "slot": 5,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 13736,
+          "size": 760
+        },
+        "zx7": {
+          "offset": 14935,
+          "size": 835
+        }
+      }
+    },
+    {
+      "path": "dkud3/Times/TIMES1.fzx",
+      "node": 219,
+      "raw_bytes": 1355,
+      "slot": 5,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          57
+        ],
+        [
+          63,
+          74
+        ],
+        [
+          75,
+          84
+        ],
+        [
+          85,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 14496,
+          "size": 685
+        },
+        "zx7": {
+          "offset": 15770,
+          "size": 745
+        }
+      }
+    },
+    {
+      "path": "dkud3/Times/TIMES2.fzx",
+      "node": 220,
+      "raw_bytes": 1223,
+      "slot": 5,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          63
+        ],
+        [
+          65,
+          76
+        ],
+        [
+          77,
+          87
+        ],
+        [
+          88,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 15181,
+          "size": 623
+        },
+        "zx7": {
+          "offset": 16515,
+          "size": 696
+        }
+      }
+    },
+    {
+      "path": "dkud3/Western/WESTERN.fzx",
+      "node": 222,
+      "raw_bytes": 812,
+      "slot": 5,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 15804,
+          "size": 407
+        },
+        "zx7": {
+          "offset": 17211,
+          "size": 449
+        }
+      }
+    },
+    {
+      "path": "dkud3/Windows/windows.fzx",
+      "node": 224,
+      "raw_bytes": 1143,
+      "slot": 5,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 16211,
+          "size": 704
+        },
+        "zx7": {
+          "offset": 17660,
+          "size": 773
+        }
+      }
+    },
+    {
+      "path": "dkud3/WingCmdr/wingcmdr1.fzx",
+      "node": 226,
+      "raw_bytes": 1433,
+      "slot": 5,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 16915,
+          "size": 848
+        },
+        "zx7": {
+          "offset": 18433,
+          "size": 916
+        }
+      }
+    },
+    {
+      "path": "dkud3/WingCmdr/wingcmdr2.fzx",
+      "node": 227,
+      "raw_bytes": 1171,
+      "slot": 5,
+      "pitch": 17,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          69
+        ],
+        [
+          70,
+          87
+        ],
+        [
+          88,
+          105
+        ],
+        [
+          106,
+          123
+        ],
+        [
+          124,
+          141
+        ],
+        [
+          142,
+          157
+        ]
+      ],
+      "glyphs": 124,
+      "compressed": {
+        "zx0": {
+          "offset": 17763,
+          "size": 733
+        },
+        "zx7": {
+          "offset": 19349,
+          "size": 800
+        }
+      }
+    },
+    {
+      "path": "dkud4/Font01/font01.fzx",
+      "node": 230,
+      "raw_bytes": 1170,
+      "slot": 6,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          56
+        ],
+        [
+          57,
+          73
+        ],
+        [
+          74,
+          84
+        ],
+        [
+          85,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 0,
+          "size": 620
+        },
+        "zx7": {
+          "offset": 0,
+          "size": 683
+        }
+      }
+    },
+    {
+      "path": "dkud4/Font02/font02.fzx",
+      "node": 232,
+      "raw_bytes": 1244,
+      "slot": 6,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          56
+        ],
+        [
+          57,
+          72
+        ],
+        [
+          73,
+          82
+        ],
+        [
+          83,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 620,
+          "size": 571
+        },
+        "zx7": {
+          "offset": 683,
+          "size": 640
+        }
+      }
+    },
+    {
+      "path": "dkud4/Font03/font03.fzx",
+      "node": 234,
+      "raw_bytes": 1212,
+      "slot": 6,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          56
+        ],
+        [
+          57,
+          72
+        ],
+        [
+          73,
+          82
+        ],
+        [
+          83,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 1191,
+          "size": 597
+        },
+        "zx7": {
+          "offset": 1323,
+          "size": 655
+        }
+      }
+    },
+    {
+      "path": "dkud4/Font04/font04.fzx",
+      "node": 236,
+      "raw_bytes": 1316,
+      "slot": 6,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          55
+        ],
+        [
+          56,
+          70
+        ],
+        [
+          71,
+          80
+        ],
+        [
+          81,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 1788,
+          "size": 507
+        },
+        "zx7": {
+          "offset": 1978,
+          "size": 551
+        }
+      }
+    },
+    {
+      "path": "dkud4/Font05/font05.fzx",
+      "node": 238,
+      "raw_bytes": 1225,
+      "slot": 6,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          63
+        ],
+        [
+          65,
+          77
+        ],
+        [
+          78,
+          89
+        ],
+        [
+          90,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 2295,
+          "size": 533
+        },
+        "zx7": {
+          "offset": 2529,
+          "size": 593
+        }
+      }
+    },
+    {
+      "path": "dkud4/Font06/font06.fzx",
+      "node": 240,
+      "raw_bytes": 1372,
+      "slot": 6,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          57
+        ],
+        [
+          63,
+          73
+        ],
+        [
+          74,
+          82
+        ],
+        [
+          83,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 2828,
+          "size": 1087
+        },
+        "zx7": {
+          "offset": 3122,
+          "size": 1203
+        }
+      }
+    },
+    {
+      "path": "dkud4/Font07/font07.fzx",
+      "node": 242,
+      "raw_bytes": 1204,
+      "slot": 6,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          57
+        ],
+        [
+          63,
+          74
+        ],
+        [
+          75,
+          84
+        ],
+        [
+          85,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 3915,
+          "size": 763
+        },
+        "zx7": {
+          "offset": 4325,
+          "size": 832
+        }
+      }
+    },
+    {
+      "path": "dkud4/Font08/font08.fzx",
+      "node": 244,
+      "raw_bytes": 1317,
+      "slot": 6,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          57
+        ],
+        [
+          63,
+          73
+        ],
+        [
+          74,
+          83
+        ],
+        [
+          84,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 4678,
+          "size": 790
+        },
+        "zx7": {
+          "offset": 5157,
+          "size": 874
+        }
+      }
+    },
+    {
+      "path": "dkud4/Font09/font09.fzx",
+      "node": 246,
+      "raw_bytes": 1235,
+      "slot": 6,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          57
+        ],
+        [
+          63,
+          75
+        ],
+        [
+          76,
+          86
+        ],
+        [
+          87,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 5468,
+          "size": 741
+        },
+        "zx7": {
+          "offset": 6031,
+          "size": 818
+        }
+      }
+    },
+    {
+      "path": "dkud4/Font10/font10.fzx",
+      "node": 248,
+      "raw_bytes": 1056,
+      "slot": 6,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          57
+        ],
+        [
+          63,
+          75
+        ],
+        [
+          76,
+          86
+        ],
+        [
+          87,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 6209,
+          "size": 522
+        },
+        "zx7": {
+          "offset": 6849,
+          "size": 574
+        }
+      }
+    },
+    {
+      "path": "dkud4/Font11/font11.fzx",
+      "node": 250,
+      "raw_bytes": 1229,
+      "slot": 6,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          57
+        ],
+        [
+          63,
+          73
+        ],
+        [
+          74,
+          83
+        ],
+        [
+          84,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 6731,
+          "size": 676
+        },
+        "zx7": {
+          "offset": 7423,
+          "size": 747
+        }
+      }
+    },
+    {
+      "path": "dkud4/Font12/font12.fzx",
+      "node": 252,
+      "raw_bytes": 1219,
+      "slot": 6,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          56
+        ],
+        [
+          57,
+          72
+        ],
+        [
+          73,
+          82
+        ],
+        [
+          83,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 7407,
+          "size": 688
+        },
+        "zx7": {
+          "offset": 8170,
+          "size": 757
+        }
+      }
+    },
+    {
+      "path": "dkud4/Font13/font13.fzx",
+      "node": 254,
+      "raw_bytes": 1211,
+      "slot": 6,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          56
+        ],
+        [
+          57,
+          73
+        ],
+        [
+          74,
+          83
+        ],
+        [
+          84,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 8095,
+          "size": 648
+        },
+        "zx7": {
+          "offset": 8927,
+          "size": 718
+        }
+      }
+    },
+    {
+      "path": "dkud4/Font14/font14.fzx",
+      "node": 256,
+      "raw_bytes": 1213,
+      "slot": 6,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          56
+        ],
+        [
+          57,
+          72
+        ],
+        [
+          73,
+          82
+        ],
+        [
+          83,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 8743,
+          "size": 830
+        },
+        "zx7": {
+          "offset": 9645,
+          "size": 907
+        }
+      }
+    },
+    {
+      "path": "dkud4/Font15/font15.fzx",
+      "node": 258,
+      "raw_bytes": 1239,
+      "slot": 6,
+      "pitch": 23,
+      "rows": [
+        [
+          33,
+          57
+        ],
+        [
+          63,
+          75
+        ],
+        [
+          76,
+          86
+        ],
+        [
+          87,
+          90
+        ]
+      ],
+      "glyphs": 40,
+      "compressed": {
+        "zx0": {
+          "offset": 9573,
+          "size": 506
+        },
+        "zx7": {
+          "offset": 10552,
+          "size": 550
+        }
+      }
+    },
+    {
+      "path": "ind/Termino/Termino.fzx",
+      "node": 261,
+      "raw_bytes": 824,
+      "slot": 7,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 0,
+          "size": 573
+        },
+        "zx7": {
+          "offset": 0,
+          "size": 616
+        }
+      }
+    },
+    {
+      "path": "ind/Termino/Termino_Latin1.fzx",
+      "node": 262,
+      "raw_bytes": 1783,
+      "slot": 7,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          175
+        ],
+        [
+          176,
+          193
+        ],
+        [
+          194,
+          211
+        ],
+        [
+          212,
+          229
+        ],
+        [
+          230,
+          247
+        ],
+        [
+          248,
+          255
+        ]
+      ],
+      "glyphs": 188,
+      "compressed": {
+        "zx0": {
+          "offset": 573,
+          "size": 1151
+        },
+        "zx7": {
+          "offset": 616,
+          "size": 1254
+        }
+      }
+    },
+    {
+      "path": "ind/Termino/Termino_Latin5.fzx",
+      "node": 263,
+      "raw_bytes": 1782,
+      "slot": 7,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          175
+        ],
+        [
+          176,
+          193
+        ],
+        [
+          194,
+          211
+        ],
+        [
+          212,
+          229
+        ],
+        [
+          230,
+          247
+        ],
+        [
+          248,
+          255
+        ]
+      ],
+      "glyphs": 188,
+      "compressed": {
+        "zx0": {
+          "offset": 1724,
+          "size": 1144
+        },
+        "zx7": {
+          "offset": 1870,
+          "size": 1248
+        }
+      }
+    },
+    {
+      "path": "ind/vga/vga.fzx",
+      "node": 265,
+      "raw_bytes": 946,
+      "slot": 7,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 2868,
+          "size": 642
+        },
+        "zx7": {
+          "offset": 3118,
+          "size": 688
+        }
+      }
+    },
+    {
+      "path": "kk/Fairfax.fzx",
+      "node": 267,
+      "raw_bytes": 902,
+      "slot": 8,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 0,
+          "size": 572
+        },
+        "zx7": {
+          "offset": 0,
+          "size": 623
+        }
+      }
+    },
+    {
+      "path": "kk/Fairfax_Latin1.fzx",
+      "node": 268,
+      "raw_bytes": 2152,
+      "slot": 8,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          158
+        ],
+        [
+          159,
+          177
+        ],
+        [
+          178,
+          195
+        ],
+        [
+          196,
+          213
+        ],
+        [
+          214,
+          231
+        ],
+        [
+          232,
+          249
+        ],
+        [
+          250,
+          255
+        ]
+      ],
+      "glyphs": 222,
+      "compressed": {
+        "zx0": {
+          "offset": 572,
+          "size": 1257
+        },
+        "zx7": {
+          "offset": 623,
+          "size": 1369
+        }
+      }
+    },
+    {
+      "path": "kk/FairfaxB.fzx",
+      "node": 269,
+      "raw_bytes": 902,
+      "slot": 8,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 1829,
+          "size": 552
+        },
+        "zx7": {
+          "offset": 1992,
+          "size": 606
+        }
+      }
+    },
+    {
+      "path": "kk/FairfaxB_Latin1.fzx",
+      "node": 270,
+      "raw_bytes": 2153,
+      "slot": 8,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          158
+        ],
+        [
+          159,
+          177
+        ],
+        [
+          178,
+          195
+        ],
+        [
+          196,
+          213
+        ],
+        [
+          214,
+          231
+        ],
+        [
+          232,
+          249
+        ],
+        [
+          250,
+          255
+        ]
+      ],
+      "glyphs": 222,
+      "compressed": {
+        "zx0": {
+          "offset": 2381,
+          "size": 1247
+        },
+        "zx7": {
+          "offset": 2598,
+          "size": 1361
+        }
+      }
+    },
+    {
+      "path": "kk/FairfaxI.fzx",
+      "node": 271,
+      "raw_bytes": 904,
+      "slot": 8,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 3628,
+          "size": 617
+        },
+        "zx7": {
+          "offset": 3959,
+          "size": 677
+        }
+      }
+    },
+    {
+      "path": "kk/FairfaxI_Latin1.fzx",
+      "node": 272,
+      "raw_bytes": 2153,
+      "slot": 8,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          158
+        ],
+        [
+          159,
+          177
+        ],
+        [
+          178,
+          195
+        ],
+        [
+          196,
+          213
+        ],
+        [
+          214,
+          231
+        ],
+        [
+          232,
+          249
+        ],
+        [
+          250,
+          255
+        ]
+      ],
+      "glyphs": 222,
+      "compressed": {
+        "zx0": {
+          "offset": 4245,
+          "size": 1330
+        },
+        "zx7": {
+          "offset": 4636,
+          "size": 1447
+        }
+      }
+    },
+    {
+      "path": "kk/FairfaxS.fzx",
+      "node": 273,
+      "raw_bytes": 902,
+      "slot": 8,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 5575,
+          "size": 630
+        },
+        "zx7": {
+          "offset": 6083,
+          "size": 682
+        }
+      }
+    },
+    {
+      "path": "kk/FairfaxS_Latin1.fzx",
+      "node": 274,
+      "raw_bytes": 2152,
+      "slot": 8,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          140
+        ],
+        [
+          141,
+          158
+        ],
+        [
+          159,
+          177
+        ],
+        [
+          178,
+          195
+        ],
+        [
+          196,
+          213
+        ],
+        [
+          214,
+          231
+        ],
+        [
+          232,
+          249
+        ],
+        [
+          250,
+          255
+        ]
+      ],
+      "glyphs": 222,
+      "compressed": {
+        "zx0": {
+          "offset": 6205,
+          "size": 1333
+        },
+        "zx7": {
+          "offset": 6765,
+          "size": 1444
+        }
+      }
+    },
+    {
+      "path": "kk/Magdalena.fzx",
+      "node": 275,
+      "raw_bytes": 1065,
+      "slot": 8,
+      "pitch": 21,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          85
+        ],
+        [
+          86,
+          102
+        ],
+        [
+          103,
+          119
+        ],
+        [
+          120,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 7538,
+          "size": 759
+        },
+        "zx7": {
+          "offset": 8209,
+          "size": 803
+        }
+      }
+    },
+    {
+      "path": "kk/Magdalena_Latin1.fzx",
+      "node": 276,
+      "raw_bytes": 2621,
+      "slot": 8,
+      "pitch": 21,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          85
+        ],
+        [
+          86,
+          102
+        ],
+        [
+          103,
+          119
+        ],
+        [
+          120,
+          136
+        ],
+        [
+          137,
+          153
+        ],
+        [
+          154,
+          171
+        ],
+        [
+          172,
+          189
+        ],
+        [
+          190,
+          205
+        ],
+        [
+          206,
+          221
+        ],
+        [
+          222,
+          239
+        ],
+        [
+          240,
+          255
+        ]
+      ],
+      "glyphs": 222,
+      "compressed": {
+        "zx0": {
+          "offset": 8297,
+          "size": 1585
+        },
+        "zx7": {
+          "offset": 9012,
+          "size": 1694
+        }
+      }
+    },
+    {
+      "path": "kk/MagdalenaB.fzx",
+      "node": 277,
+      "raw_bytes": 1189,
+      "slot": 8,
+      "pitch": 21,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          66
+        ],
+        [
+          67,
+          81
+        ],
+        [
+          82,
+          96
+        ],
+        [
+          97,
+          112
+        ],
+        [
+          113,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 9882,
+          "size": 788
+        },
+        "zx7": {
+          "offset": 10706,
+          "size": 856
+        }
+      }
+    },
+    {
+      "path": "kk/MagdalenaB_Latin1.fzx",
+      "node": 278,
+      "raw_bytes": 2926,
+      "slot": 8,
+      "pitch": 21,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          66
+        ],
+        [
+          67,
+          81
+        ],
+        [
+          82,
+          96
+        ],
+        [
+          97,
+          112
+        ],
+        [
+          113,
+          128
+        ],
+        [
+          129,
+          144
+        ],
+        [
+          145,
+          162
+        ],
+        [
+          163,
+          179
+        ],
+        [
+          180,
+          195
+        ],
+        [
+          196,
+          210
+        ],
+        [
+          211,
+          225
+        ],
+        [
+          226,
+          242
+        ],
+        [
+          243,
+          255
+        ]
+      ],
+      "glyphs": 222,
+      "compressed": {
+        "zx0": {
+          "offset": 10670,
+          "size": 1624
+        },
+        "zx7": {
+          "offset": 11562,
+          "size": 1767
+        }
+      }
+    },
+    {
+      "path": "kk/McMillen.fzx",
+      "node": 279,
+      "raw_bytes": 997,
+      "slot": 8,
+      "pitch": 20,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 12294,
+          "size": 657
+        },
+        "zx7": {
+          "offset": 13329,
+          "size": 708
+        }
+      }
+    },
+    {
+      "path": "kk/McMillen_Latin1.fzx",
+      "node": 280,
+      "raw_bytes": 2397,
+      "slot": 8,
+      "pitch": 21,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          139
+        ],
+        [
+          140,
+          156
+        ],
+        [
+          157,
+          175
+        ],
+        [
+          176,
+          193
+        ],
+        [
+          194,
+          210
+        ],
+        [
+          211,
+          228
+        ],
+        [
+          229,
+          246
+        ],
+        [
+          247,
+          255
+        ]
+      ],
+      "glyphs": 222,
+      "compressed": {
+        "zx0": {
+          "offset": 12951,
+          "size": 1448
+        },
+        "zx7": {
+          "offset": 14037,
+          "size": 1554
+        }
+      }
+    },
+    {
+      "path": "kk/McMillenB.fzx",
+      "node": 281,
+      "raw_bytes": 1069,
+      "slot": 8,
+      "pitch": 20,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          67
+        ],
+        [
+          68,
+          84
+        ],
+        [
+          85,
+          101
+        ],
+        [
+          102,
+          118
+        ],
+        [
+          119,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 14399,
+          "size": 690
+        },
+        "zx7": {
+          "offset": 15591,
+          "size": 750
+        }
+      }
+    },
+    {
+      "path": "kk/McMillenB_Latin1.fzx",
+      "node": 282,
+      "raw_bytes": 2621,
+      "slot": 8,
+      "pitch": 21,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          67
+        ],
+        [
+          68,
+          84
+        ],
+        [
+          85,
+          101
+        ],
+        [
+          102,
+          118
+        ],
+        [
+          119,
+          135
+        ],
+        [
+          136,
+          151
+        ],
+        [
+          152,
+          168
+        ],
+        [
+          169,
+          185
+        ],
+        [
+          186,
+          202
+        ],
+        [
+          203,
+          219
+        ],
+        [
+          220,
+          237
+        ],
+        [
+          238,
+          255
+        ]
+      ],
+      "glyphs": 222,
+      "compressed": {
+        "zx0": {
+          "offset": 15089,
+          "size": 1509
+        },
+        "zx7": {
+          "offset": 16341,
+          "size": 1635
+        }
+      }
+    },
+    {
+      "path": "kk/Mischke.fzx",
+      "node": 283,
+      "raw_bytes": 1067,
+      "slot": 8,
+      "pitch": 20,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          85
+        ],
+        [
+          86,
+          102
+        ],
+        [
+          103,
+          119
+        ],
+        [
+          120,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 16598,
+          "size": 792
+        },
+        "zx7": {
+          "offset": 17976,
+          "size": 847
+        }
+      }
+    },
+    {
+      "path": "kk/Mischke_Latin1.fzx",
+      "node": 284,
+      "raw_bytes": 2578,
+      "slot": 8,
+      "pitch": 21,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          85
+        ],
+        [
+          86,
+          102
+        ],
+        [
+          103,
+          119
+        ],
+        [
+          120,
+          136
+        ],
+        [
+          137,
+          153
+        ],
+        [
+          154,
+          171
+        ],
+        [
+          172,
+          189
+        ],
+        [
+          190,
+          206
+        ],
+        [
+          207,
+          222
+        ],
+        [
+          223,
+          240
+        ],
+        [
+          241,
+          255
+        ]
+      ],
+      "glyphs": 222,
+      "compressed": {
+        "zx0": {
+          "offset": 17390,
+          "size": 1654
+        },
+        "zx7": {
+          "offset": 18823,
+          "size": 1772
+        }
+      }
+    },
+    {
+      "path": "kk/MischkeB.fzx",
+      "node": 285,
+      "raw_bytes": 1132,
+      "slot": 8,
+      "pitch": 20,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          67
+        ],
+        [
+          68,
+          83
+        ],
+        [
+          84,
+          99
+        ],
+        [
+          100,
+          116
+        ],
+        [
+          117,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 19044,
+          "size": 848
+        },
+        "zx7": {
+          "offset": 20595,
+          "size": 903
+        }
+      }
+    },
+    {
+      "path": "kk/MischkeB_Latin1.fzx",
+      "node": 286,
+      "raw_bytes": 2733,
+      "slot": 8,
+      "pitch": 21,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          67
+        ],
+        [
+          68,
+          83
+        ],
+        [
+          84,
+          99
+        ],
+        [
+          100,
+          116
+        ],
+        [
+          117,
+          132
+        ],
+        [
+          133,
+          148
+        ],
+        [
+          149,
+          165
+        ],
+        [
+          166,
+          182
+        ],
+        [
+          183,
+          198
+        ],
+        [
+          199,
+          215
+        ],
+        [
+          216,
+          230
+        ],
+        [
+          231,
+          247
+        ],
+        [
+          248,
+          255
+        ]
+      ],
+      "glyphs": 222,
+      "compressed": {
+        "zx0": {
+          "offset": 19892,
+          "size": 1725
+        },
+        "zx7": {
+          "offset": 21498,
+          "size": 1857
+        }
+      }
+    },
+    {
+      "path": "kk/Monterey.fzx",
+      "node": 287,
+      "raw_bytes": 1000,
+      "slot": 8,
+      "pitch": 20,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 21617,
+          "size": 566
+        },
+        "zx7": {
+          "offset": 23355,
+          "size": 619
+        }
+      }
+    },
+    {
+      "path": "kk/Monterey_Latin1.fzx",
+      "node": 288,
+      "raw_bytes": 2403,
+      "slot": 8,
+      "pitch": 21,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          139
+        ],
+        [
+          140,
+          156
+        ],
+        [
+          157,
+          175
+        ],
+        [
+          176,
+          193
+        ],
+        [
+          194,
+          211
+        ],
+        [
+          212,
+          229
+        ],
+        [
+          230,
+          247
+        ],
+        [
+          248,
+          255
+        ]
+      ],
+      "glyphs": 222,
+      "compressed": {
+        "zx0": {
+          "offset": 22183,
+          "size": 1288
+        },
+        "zx7": {
+          "offset": 23974,
+          "size": 1405
+        }
+      }
+    },
+    {
+      "path": "kk/MontereyB.fzx",
+      "node": 289,
+      "raw_bytes": 1051,
+      "slot": 8,
+      "pitch": 20,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          67
+        ],
+        [
+          68,
+          85
+        ],
+        [
+          86,
+          103
+        ],
+        [
+          104,
+          121
+        ],
+        [
+          122,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 23471,
+          "size": 579
+        },
+        "zx7": {
+          "offset": 25379,
+          "size": 635
+        }
+      }
+    },
+    {
+      "path": "kk/MontereyB_Latin1.fzx",
+      "node": 290,
+      "raw_bytes": 2512,
+      "slot": 8,
+      "pitch": 22,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          67
+        ],
+        [
+          68,
+          85
+        ],
+        [
+          86,
+          103
+        ],
+        [
+          104,
+          121
+        ],
+        [
+          122,
+          138
+        ],
+        [
+          139,
+          155
+        ],
+        [
+          156,
+          173
+        ],
+        [
+          174,
+          191
+        ],
+        [
+          192,
+          209
+        ],
+        [
+          210,
+          227
+        ],
+        [
+          228,
+          245
+        ],
+        [
+          246,
+          255
+        ]
+      ],
+      "glyphs": 222,
+      "compressed": {
+        "zx0": {
+          "offset": 24050,
+          "size": 1322
+        },
+        "zx7": {
+          "offset": 26014,
+          "size": 1443
+        }
+      }
+    },
+    {
+      "path": "sfff/KIO8_B.fzx",
+      "node": 292,
+      "raw_bytes": 2015,
+      "slot": 9,
+      "pitch": 22,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          202
+        ],
+        [
+          203,
+          220
+        ],
+        [
+          221,
+          238
+        ],
+        [
+          239,
+          255
+        ]
+      ],
+      "glyphs": 161,
+      "compressed": {
+        "zx0": {
+          "offset": 0,
+          "size": 1089
+        },
+        "zx7": {
+          "offset": 0,
+          "size": 1211
+        }
+      }
+    },
+    {
+      "path": "utz/1stGrade/1stgrade.fzx",
+      "node": 295,
+      "raw_bytes": 1109,
+      "slot": 10,
+      "pitch": 19,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          67
+        ],
+        [
+          68,
+          85
+        ],
+        [
+          86,
+          103
+        ],
+        [
+          104,
+          120
+        ],
+        [
+          121,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 0,
+          "size": 862
+        },
+        "zx7": {
+          "offset": 0,
+          "size": 924
+        }
+      }
+    },
+    {
+      "path": "utz/Blokz/blokz.fzx",
+      "node": 297,
+      "raw_bytes": 692,
+      "slot": 10,
+      "pitch": 14,
+      "rows": [
+        [
+          32,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          96
+        ]
+      ],
+      "glyphs": 64,
+      "compressed": {
+        "zx0": {
+          "offset": 862,
+          "size": 378
+        },
+        "zx7": {
+          "offset": 924,
+          "size": 448
+        }
+      }
+    },
+    {
+      "path": "utz/GridDrop/grid0.fzx",
+      "node": 299,
+      "raw_bytes": 3969,
+      "slot": 10,
+      "pitch": 37,
+      "rows": [
+        [
+          33,
+          44
+        ],
+        [
+          45,
+          54
+        ],
+        [
+          55,
+          64
+        ],
+        [
+          65,
+          74
+        ],
+        [
+          75,
+          83
+        ],
+        [
+          84,
+          93
+        ],
+        [
+          94,
+          103
+        ],
+        [
+          104,
+          113
+        ],
+        [
+          114,
+          123
+        ],
+        [
+          124,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 1240,
+          "size": 983
+        },
+        "zx7": {
+          "offset": 1372,
+          "size": 1049
+        }
+      }
+    },
+    {
+      "path": "utz/GridDrop/griddrop.fzx",
+      "node": 300,
+      "raw_bytes": 4323,
+      "slot": 10,
+      "pitch": 37,
+      "rows": [
+        [
+          33,
+          44
+        ],
+        [
+          45,
+          54
+        ],
+        [
+          55,
+          64
+        ],
+        [
+          65,
+          74
+        ],
+        [
+          75,
+          83
+        ],
+        [
+          84,
+          93
+        ],
+        [
+          94,
+          103
+        ],
+        [
+          104,
+          114
+        ],
+        [
+          115,
+          125
+        ],
+        [
+          126,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 2223,
+          "size": 1604
+        },
+        "zx7": {
+          "offset": 2421,
+          "size": 1722
+        }
+      }
+    },
+    {
+      "path": "utz/Handpress/handpress.fzx",
+      "node": 302,
+      "raw_bytes": 906,
+      "slot": 10,
+      "pitch": 16,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 3827,
+          "size": 652
+        },
+        "zx7": {
+          "offset": 4143,
+          "size": 698
+        }
+      }
+    },
+    {
+      "path": "utz/KickDrop/kickdrop.fzx",
+      "node": 304,
+      "raw_bytes": 1542,
+      "slot": 10,
+      "pitch": 20,
+      "rows": [
+        [
+          33,
+          46
+        ],
+        [
+          47,
+          60
+        ],
+        [
+          61,
+          73
+        ],
+        [
+          74,
+          86
+        ],
+        [
+          87,
+          96
+        ]
+      ],
+      "glyphs": 64,
+      "compressed": {
+        "zx0": {
+          "offset": 4479,
+          "size": 915
+        },
+        "zx7": {
+          "offset": 4841,
+          "size": 1012
+        }
+      }
+    },
+    {
+      "path": "utz/Notez/notez.fzx",
+      "node": 306,
+      "raw_bytes": 797,
+      "slot": 10,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 5394,
+          "size": 581
+        },
+        "zx7": {
+          "offset": 5853,
+          "size": 626
+        }
+      }
+    },
+    {
+      "path": "utz/PhatKidzBRK/phatkidzbrk.fzx",
+      "node": 308,
+      "raw_bytes": 745,
+      "slot": 10,
+      "pitch": 14,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 5975,
+          "size": 469
+        },
+        "zx7": {
+          "offset": 6479,
+          "size": 528
+        }
+      }
+    },
+    {
+      "path": "utz/Phraktur/kphraktur.fzx",
+      "node": 310,
+      "raw_bytes": 1753,
+      "slot": 10,
+      "pitch": 22,
+      "rows": [
+        [
+          33,
+          49
+        ],
+        [
+          50,
+          65
+        ],
+        [
+          66,
+          78
+        ],
+        [
+          79,
+          91
+        ],
+        [
+          92,
+          108
+        ],
+        [
+          109,
+          125
+        ],
+        [
+          126,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 6444,
+          "size": 1187
+        },
+        "zx7": {
+          "offset": 7007,
+          "size": 1275
+        }
+      }
+    },
+    {
+      "path": "utz/ShadowFlower/sflower.fzx",
+      "node": 312,
+      "raw_bytes": 931,
+      "slot": 10,
+      "pitch": 18,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 7631,
+          "size": 630
+        },
+        "zx7": {
+          "offset": 8282,
+          "size": 678
+        }
+      }
+    },
+    {
+      "path": "utz/SkoolBrk/skoolbrkCD.fzx",
+      "node": 314,
+      "raw_bytes": 811,
+      "slot": 10,
+      "pitch": 13,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 8261,
+          "size": 585
+        },
+        "zx7": {
+          "offset": 8960,
+          "size": 633
+        }
+      }
+    },
+    {
+      "path": "utz/SkoolBrk/skoolbrkEXT.fzx",
+      "node": 315,
+      "raw_bytes": 801,
+      "slot": 10,
+      "pitch": 14,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 8846,
+          "size": 576
+        },
+        "zx7": {
+          "offset": 9593,
+          "size": 625
+        }
+      }
+    },
+    {
+      "path": "utz/SkoolBrk/skoolbrkU.fzx",
+      "node": 316,
+      "raw_bytes": 834,
+      "slot": 10,
+      "pitch": 16,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 9422,
+          "size": 612
+        },
+        "zx7": {
+          "offset": 10218,
+          "size": 666
+        }
+      }
+    },
+    {
+      "path": "utz/Skyscrap/skyscrap.fzx",
+      "node": 318,
+      "raw_bytes": 805,
+      "slot": 10,
+      "pitch": 15,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ]
+      ],
+      "glyphs": 90,
+      "compressed": {
+        "zx0": {
+          "offset": 10034,
+          "size": 533
+        },
+        "zx7": {
+          "offset": 10884,
+          "size": 584
+        }
+      }
+    },
+    {
+      "path": "utz/TinyTexan/tinytexanS.fzx",
+      "node": 320,
+      "raw_bytes": 710,
+      "slot": 10,
+      "pitch": 12,
+      "rows": [
+        [
+          33,
+          50
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          69,
+          86
+        ],
+        [
+          87,
+          104
+        ],
+        [
+          105,
+          122
+        ],
+        [
+          123,
+          127
+        ]
+      ],
+      "glyphs": 95,
+      "compressed": {
+        "zx0": {
+          "offset": 10567,
+          "size": 466
+        },
+        "zx7": {
+          "offset": 11468,
+          "size": 509
+        }
+      }
+    },
+    {
+      "path": "utz/TinyTexan/tinytexanXS.fzx",
+      "node": 321,
+      "raw_bytes": 421,
+      "slot": 10,
+      "pitch": 11,
+      "rows": [
+        [
+          33,
+          51
+        ],
+        [
+          52,
+          70
+        ],
+        [
+          71,
+          88
+        ],
+        [
+          89,
+          96
+        ]
+      ],
+      "glyphs": 62,
+      "compressed": {
+        "zx0": {
+          "offset": 11033,
+          "size": 271
+        },
+        "zx7": {
+          "offset": 11977,
+          "size": 300
+        }
+      }
+    },
+    {
+      "path": "utz/TinyTexan/tinytexanXXS.fzx",
+      "node": 322,
+      "raw_bytes": 353,
+      "slot": 10,
+      "pitch": 10,
+      "rows": [
+        [
+          34,
+          56
+        ],
+        [
+          57,
+          76
+        ],
+        [
+          77,
+          94
+        ],
+        [
+          95,
+          96
+        ]
+      ],
+      "glyphs": 56,
+      "compressed": {
+        "zx0": {
+          "offset": 11304,
+          "size": 196
+        },
+        "zx7": {
+          "offset": 12277,
+          "size": 211
+        }
+      }
+    }
+  ],
+  "z88dk_version": "v26997-37960a1a59-20261111"
+}
